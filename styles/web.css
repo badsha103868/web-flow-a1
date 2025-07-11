@@ -193,6 +193,32 @@ nav{
   border-radius: 48px;
   width: 840px;
   height: 360px;
- 
+ }
+ /* footer section */
+ footer{
+  padding:130px 230px;
+  display: flex;
+  gap: 115px;
+  margin-top: 100px;
+  background-color: #FFFFFF;
+  
+ }
+ .section-title{
+  font-size: 97px;
+  font-weight: bold;
+  
+ }
+ .footer-column{
+  width: 50%;
+ }
+ footer input[type="text"], footer input[type="email"], footer textarea{
+  height: 70px;
+  border-radius:10px ;
+  background-color: #FFFFFF;
+  display: block;
+  width: 100%;
+  padding: 20px 30px;
+  margin-bottom: 19px;
+  border: 1px solid #D6DDED;
 
-}
+ }
