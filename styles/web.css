@@ -109,4 +109,53 @@ nav{
   font-size: 20px;
   color: #000000;
  }
+ /* What our users say section */
+ .user-title{
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+  text-align: center ;
+  margin-bottom: 40px;
+ }
+ /* user section */
+ .user-container{
+  display: flex;
+  justify-content:center;
+  gap: 20px;
  
+
+ }
+ .reviewer-section{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+ }
+ .user{
+  padding: 24px;
+  border-radius: 14px;
+  background-color:#FFFFFF ;
+  text-align: left;
+  border: 5px solid #F2EDED ;
+  box-shadow: 0 6px 50px 0 #F2EDED;
+  
+ 
+  
+ }
+ .user-description{
+  font-size: 14px;
+  color: #1E1E1E;
+  margin-bottom: 20px;
+  text-align: justify;
+  
+ }
+ .text{
+  color: #757575;
+  font-size:14px ;
+ }
+ .date{
+  color: #B3B3B3;
+  font-size: 13px;
+ }
+ .user-sub-title{
+  color: #1E1E1E;
+ }
