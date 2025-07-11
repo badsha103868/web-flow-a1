@@ -159,3 +159,40 @@ nav{
  .user-sub-title{
   color: #1E1E1E;
  }
+ /* focus section */
+ .focus{
+  padding:50px 130px ;
+  border-radius: 14px;
+  background-color:#FFFFFF;
+  box-shadow: 0 6px 50px 0 #F2EDED;
+  margin: 100px 150px;
+
+ }
+ .focus-section{
+  text-align: center;
+  margin-bottom: 20px;
+
+ }
+ .focus-title{
+  font-size: 50px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 20px;
+  
+ }
+.focus-para{
+  font-size: 14px;
+  color: #000000;
+}
+.focus-image{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.focus-image img{
+  border-radius: 48px;
+  width: 840px;
+  height: 360px;
+ 
+
+}
